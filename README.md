@@ -1,6 +1,6 @@
 # Spiking Neural Network (SNN) Explainability & Hardware Gating
 
-![SNN Analysis Header] ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C.svg?logo=pytorch) ![SpikingJelly](https://img.shields.io/badge/Framework-SpikingJelly-yellow)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C.svg?logo=pytorch) ![SpikingJelly](https://img.shields.io/badge/Framework-SpikingJelly-yellow)
 
 This repository serves as the official supplementary code and data module for our research investigating the biological abstractions and inherent hardware optimization topologies within deep Spiking Neural Networks (SNNs)—specifically evaluating the **MaxFormer** Vision Transformer architecture.
 
