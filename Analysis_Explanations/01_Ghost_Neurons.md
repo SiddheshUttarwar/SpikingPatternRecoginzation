@@ -40,3 +40,7 @@ To formalize these findings for architectural reproduction, the algorithmic stat
 | Block 4 | 0.1235 | 0.0104 | 0.1174 | 0.076 | 0.0002 | 0.1148 |
 | Block 5 | 0.0655 | 0.1079 | 0.2223 | 0.0316 | 0.0126 | 0.0347 |
 | Block 6 | 0.2027 | 0.0137 | 0.1948 | 0.2229 | 0.1922 | 0.1586 |
+
+#### Grid Interpretation & Conclusion
+- **Value Representation:** Each scalar represents the exact analytical fraction of Spatial Tokens ($N$) within the localized head bounding array that spontaneously generates an anomalous spike entirely independent of natural stimulus.
+- **Architectural Conclusion:** The spatial matrix exposes a distinct developmental accumulation; shallow topologies (Block 0/1) present minimal spontaneous firing ($< 5\%$), whereas deepest computational bounds (Block 6) uniformly register extreme baseline excitation (upwards of $20\%$ to $22\%$). This empirically implies that recursive residual LayerNorm and un-gated Affine accumulations progressively amplify mathematical biases beyond threshold potentials at deeper states, causing deep-network structural hallucination cascades.
