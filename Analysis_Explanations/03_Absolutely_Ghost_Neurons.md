@@ -48,5 +48,5 @@ The discovery of independent, absolute static variance anomalies was cleanly enc
 | Block 6 | 0.0 | 0.0 | 0.0 | 0.0051 | 0.0 | 0.0 |
 
 #### Grid Interpretation & Conclusion
-- **Value Representation:** Explicit probabilistic fraction array tracking specific spatial network constraints natively bound sequentially matching $0$-variance probability outputs uniformly identical independently over randomized 100 ImageNet evaluations.
+- **Value Representation (Plain English):** This number is the percentage of completely stubborn neurons. No matter what image you show the model—a dog, a car, or a tree—these neurons always fire the exact same amount of times.
 - **Architectural Conclusion:** Distribution clustering heavily validates extreme sparsity assumptions matching specific operational subsets; notably capturing high fragmentation matrices specifically located inside `Block 4` and `Block 6`. Identifying identical $0$-entropy states specifically in dense later-stage visual matrices formally confirms structurally isolated mathematical parameter crystallization behaviors matching explicit targets natively optimal for aggressive hardware $M$-mask pruning structures.

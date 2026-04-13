@@ -46,5 +46,5 @@ To document the explicit mathematical boundary mapping isolating this minute, ri
 | Block 6 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 #### Grid Interpretation & Conclusion
-- **Value Representation:** Defines the exact localized integer counting subset isolating strictly rigid spatial arrays outputting temporally generated spike sequences matching absolutely bound identical isometric $T_x$ sequences regardless of null input streams.
+- **Value Representation (Plain English):** This is a simple count. It shows exactly how many individual neurons in this block get 'stuck' at their resting baseline rate, refusing to change their behavior even when scanning 100 completely different natural images.
 - **Architectural Conclusion:** The uniform matrix effectively renders all macroscopic bounds explicitly negative ($0$ anchors globally identified) with the radical isolated algorithmic exception mapping universally directly inside `Block 2, Head 2`. Yielding precisely $20$ explicit hardware targets establishes that while continuous generative bias bounds exist structurally, absolutely rigid stimulus-agnostic static offset channels structurally exist only as extreme statistical micro-anomalies effectively dismissing scalar deployment viability.
